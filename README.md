@@ -1,2 +1,2 @@
-# bvmac-website-or-bvmac-mobile-app
+# bvmac-website-&-mobile-app
 Demo repository for BVMAC website and mobile app showcase.
